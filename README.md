@@ -1,7 +1,7 @@
 # NX — Nightfall
 
 <div align="center">
-  <img width="200" height="200" alt="profile" src="https://avatars.githubusercontent.com/u/198670488?v=4" />
+  <img width="200" height="200" alt="profile" src="https://api.github.com/users/nxrtez/avatar/" />
   
   He / Him
 </div>
